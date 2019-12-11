@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetF3_1 Pin=t1-1
+Removed Pin From Net: NetName=13.8V_Aux Pin=t3-1
+Removed Member From Class: ClassName=PowerRegulationBoardV2 Member=t3
+Added Component: Designator=t2(TestPoint)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+12 Pin=t1-1
+Added Pin To Net: NetName=NetCon2_1 Pin=t2-1
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component t2 Testpoint

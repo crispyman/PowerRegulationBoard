@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=PowerNets Member=Net2_1
+Removed Member From Class: ClassName=PowerNets Member=Net+24_1
+Change Component Designator: OldDesignator=+24 NewDesignator=+24v
+Change Component Designator: OldDesignator=1 NewDesignator=+12vM
+Change Component Designator: OldDesignator=2 NewDesignator=+12vA
+Change Net Name : Old Net Name=Net2_1 New Net Name=Net+12vA_1
+Change Net Name : Old Net Name=Net+24_1 New Net Name=Net+24v_1
+Added Member To Class: ClassName=PowerNets Member=Wire Net+12vA_1
+Added Member To Class: ClassName=PowerNets Member=Wire Net+24v_1

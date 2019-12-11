@@ -1,0 +1,31 @@
+Change Physical Footprint: Designator=+12v Old Footprint=TestPoint New Footprint=TestPoint
+Change Physical Footprint: Designator=+12vA Old Footprint=TestPoint New Footprint=TestPoint
+Change Physical Footprint: Designator=+12vM Old Footprint=TestPoint New Footprint=TestPoint
+Change Physical Footprint: Designator=+24v Old Footprint=TestPoint New Footprint=TestPoint
+Change Physical Footprint: Designator=+117v Old Footprint=TestPoint New Footprint=TestPoint
+Change Physical Footprint: Designator=Aux_GND Old Footprint=TestPoint New Footprint=TestPoint
+Change Physical Footprint: Designator=Con1 Old Footprint=Battery Con New Footprint=Battery Con
+Change Physical Footprint: Designator=Con2 Old Footprint=Battery Con New Footprint=Battery Con
+Change Physical Footprint: Designator=Con3 Old Footprint=Battery Con New Footprint=Battery Con
+Change Physical Footprint: Designator=D1 Old Footprint=Nexperia_SOD128_0 New Footprint=Nexperia_SOD128_0
+Change Physical Footprint: Designator=D2 Old Footprint=Nexperia_SOD128_0 New Footprint=Nexperia_SOD128_0
+Change Physical Footprint: Designator=F1 Old Footprint=PC TRON 5A New Footprint=PC TRON 5A
+Change Physical Footprint: Designator=F2 Old Footprint=Keystone_3557-2_0 New Footprint=Keystone_3557-2_0
+Change Physical Footprint: Designator=F3 Old Footprint=PC TRON 5A New Footprint=PC TRON 5A
+Change Physical Footprint: Designator=F4 Old Footprint=Keystone_3557-2_0 New Footprint=Keystone_3557-2_0
+Change Physical Footprint: Designator=GND Old Footprint=TestPoint New Footprint=TestPoint
+Change Physical Footprint: Designator=H1 Old Footprint=HDR1X2 New Footprint=HDR1X2
+Change Physical Footprint: Designator=H3 Old Footprint=HDR1X2 New Footprint=HDR1X2
+Change Physical Footprint: Designator=J1 Old Footprint=1542761 New Footprint=1542761
+Change Physical Footprint: Designator=K1 Old Footprint=CPC1117N New Footprint=CPC1117N
+Change Physical Footprint: Designator=K2 Old Footprint=CPC1117N New Footprint=CPC1117N
+Change Physical Footprint: Designator=P1 Old Footprint=SCREW-5.0-2WAYS_V New Footprint=SCREW-5.0-2WAYS_V
+Change Physical Footprint: Designator=Pack_GND Old Footprint=TestPoint New Footprint=TestPoint
+Change Physical Footprint: Designator=R1 Old Footprint=Vishay_WSL2010_0 New Footprint=Vishay_WSL2010_0
+Change Physical Footprint: Designator=R2 Old Footprint=Vishay_WSL2010_0 New Footprint=Vishay_WSL2010_0
+Change Physical Footprint: Designator=R5 Old Footprint=Vishay_WSL2010_0 New Footprint=Vishay_WSL2010_0
+Change Physical Footprint: Designator=R6 Old Footprint=Vishay_WSL2010_0 New Footprint=Vishay_WSL2010_0
+Change Physical Footprint: Designator=R8 Old Footprint=Vishay_CRCW1206_IPC_A New Footprint=Vishay_CRCW1206_IPC_A
+Change Physical Footprint: Designator=Start_Switch1 Old Footprint=TestPoint New Footprint=TestPoint
+Change Physical Footprint: Designator=U1 Old Footprint=Vicor DC-DC Maxi New Footprint=Vicor DC-DC Maxi
+Change Physical Footprint: Designator=U2 Old Footprint=Vicor DC-DC Maxi New Footprint=Vicor DC-DC Maxi

@@ -1,0 +1,15 @@
+Added Component: Designator=J?(UMPT02065TVTSMWTK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/umpt-xx-xx.x-x-vt-xx-x-xx-x-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UMPT-02-06.5-T-VT-SM-WT-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-UMPT26.5TVTSMWTK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=200-UMPT26.5TVTSMWTK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCon3_1 Pin=J?-1
+Added Pin To Net: NetName=NetCon1_1 Pin=J?-2
+Added Pin To Net: NetName=NetK?_4 Pin=U1-2
+Added Net: Name=NetK?_4
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component J? UMPT-02-06.5-T-VT-SM-WT-K

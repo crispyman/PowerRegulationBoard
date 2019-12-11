@@ -1,0 +1,17 @@
+Change Component Designator: Old Designator=+110V New Designator=+1
+Change Component Designator: Old Designator=12V_AUX New Designator=2
+Change Component Designator: Old Designator=12V_MAIN New Designator=1
+Change Component Designator: Old Designator=F2 New Designator=F3
+Change Component Designator: Old Designator=F3 New Designator=F2
+Change Component Designator: Old Designator=H1 New Designator=H2
+Change Component Designator: Old Designator=H2 New Designator=H3
+Change Component Designator: Old Designator=H? New Designator=H1
+Change Component Designator: Old Designator=K1 New Designator=K2
+Change Component Designator: Old Designator=K? New Designator=K1
+Change Component Designator: Old Designator=Pack_GND New Designator=Pack_GND1
+Change Component Designator: Old Designator=R4 New Designator=R5
+Change Component Designator: Old Designator=R5 New Designator=R6
+Change Component Designator: Old Designator=R6 New Designator=R7
+Change Component Designator: Old Designator=R7 New Designator=R8
+Change Component Designator: Old Designator=R? New Designator=R4
+Change Component Designator: Old Designator=Start_Switch New Designator=Start_Switch1

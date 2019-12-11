@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PowerRegulationBoardV2.PrjPcb]
+   Generated File[PowerRegulationBoardV2-RoundHoles.TXT]
+   Generated File[PowerRegulationBoardV2-SlotHoles.TXT]
+   Generated File[PowerRegulationBoardV2.LDP]
+   Generated File[PowerRegulationBoardV2.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:52:24 PM On 11/26/2019

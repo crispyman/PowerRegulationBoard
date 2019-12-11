@@ -1,0 +1,40 @@
+Removed Member From Class: ClassName=PowerRegulationBoardV2 Member=H?
+Removed Member From Class: ClassName=PowerRegulationBoardV2 Member=K?
+Removed Member From Class: ClassName=PowerRegulationBoardV2 Member=R?
+Removed Member From Class: ClassName=PowerNets Member=Net12V_AUX_1
+Removed Member From Class: ClassName=PowerNets Member=Net+110V_1
+Removed Member From Class: ClassName=PowerNets Member=NetF3_1
+Change Component Designator: OldDesignator=+110V NewDesignator=+1
+Change Component Designator: OldDesignator=12V_AUX NewDesignator=2
+Change Component Designator: OldDesignator=12V_MAIN NewDesignator=1
+Change Component Designator: OldDesignator=F2 NewDesignator=F3
+Change Component Designator: OldDesignator=F3 NewDesignator=F2
+Change Component Designator: OldDesignator=H1 NewDesignator=H2
+Change Component Designator: OldDesignator=H2 NewDesignator=H3
+Change Component Designator: OldDesignator=H? NewDesignator=H1
+Change Component Designator: OldDesignator=K1 NewDesignator=K2
+Change Component Designator: OldDesignator=K? NewDesignator=K1
+Change Component Designator: OldDesignator=Pack_GND NewDesignator=Pack_GND1
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=Start_Switch NewDesignator=Start_Switch1
+Change Net Name : Old Net Name=Net12V_AUX_1 New Net Name=Net2_1
+Change Net Name : Old Net Name=Net+110V_1 New Net Name=Net+1_1
+Change Net Name : Old Net Name=NetF3_1 New Net Name=NetF2_1
+Change Net Name : Old Net Name=NetH?_1 New Net Name=NetH1_1
+Change Net Name : Old Net Name=NetH?_2 New Net Name=NetH1_2
+Change Net Name : Old Net Name=NetK1_3 New Net Name=NetK2_3
+Change Net Name : Old Net Name=NetK?_1 New Net Name=NetK1_1
+Change Net Name : Old Net Name=NetK?_4 New Net Name=NetK1_4
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR6_2
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component H3 Header 0
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component K2 CPC1117N
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component R8 CRCW201020R0FKEF
+Added Member To Class: ClassName=PowerNets Member=Wire Net2_1
+Added Member To Class: ClassName=PowerNets Member=Wire Net+1_1
+Added Member To Class: ClassName=PowerNets Member=Wire NetF2_1

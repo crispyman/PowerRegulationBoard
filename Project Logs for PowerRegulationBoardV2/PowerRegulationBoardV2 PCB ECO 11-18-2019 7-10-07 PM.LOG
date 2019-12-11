@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetCon3_1 Pin=Con3-1
+Removed Pin From Net: NetName=NetAux_GND_1 Pin=Con3-2
+Removed Member From Class: ClassName=PowerNets Member=NetCon3_1
+Added Pin To Net: NetName=NetAux_GND_1 Pin=Con3-1
+Added Pin To Net: NetName=NetCon3_1 Pin=Con3-2
+Change Net Name : Old Net Name=NetCon3_1 New Net Name=NetCon3_2
+Added Member To Class: ClassName=PowerNets Member=Wire NetCon3_2

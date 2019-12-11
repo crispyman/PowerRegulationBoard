@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=K? NewDesignator=K1
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Net Name : Old Net Name=NetK?_1 New Net Name=NetK1_1
+Change Net Name : Old Net Name=NetK?_3 New Net Name=NetK1_3
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component D2 PMEG3050EP,115

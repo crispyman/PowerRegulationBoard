@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=PowerRegulationBoardV2 Member=BT1
+Removed Member From Class: ClassName=PowerRegulationBoardV2 Member=D1
+Removed Member From Class: ClassName=PowerRegulationBoardV2 Member=H2
+Removed Member From Class: ClassName=PowerRegulationBoardV2 Member=R8
+Change Component Designator: OldDesignator=+12va NewDesignator=2
+Change Component Designator: OldDesignator=+12vm NewDesignator=1
+Change Component Designator: OldDesignator=+110 NewDesignator=+1
+Change Component Designator: OldDesignator=GND NewDesignator=GND1
+Change Component Designator: OldDesignator=Pack_GND NewDesignator=Pack_GND1
+Change Component Designator: OldDesignator=Start_Switch NewDesignator=Start_Switch1
+Added Component: Designator=R?(Vishay_CRCW1206_IPC_A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetH3_1 Pin=H3-1
+Added Pin To Net: NetName=NetH3_1 Pin=K2-2
+Added Net: Name=NetH3_1
+Added Pin To Net: NetName=NetH3_2 Pin=H3-2
+Added Pin To Net: NetName=NetH3_2 Pin=R?-1
+Added Net: Name=NetH3_2
+Added Pin To Net: NetName=NetK2_1 Pin=K2-1
+Added Pin To Net: NetName=NetK2_1 Pin=R?-2
+Added Net: Name=NetK2_1
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component +1 Testpoint
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component R? CRCW12065K60FKEA

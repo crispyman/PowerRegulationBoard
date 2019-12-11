@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=+12 Pin=J1-2
+Removed Pin From Net: NetName=NetK1_1 Pin=K1-1
+Removed Pin From Net: NetName=NetH1_1 Pin=K1-2
+Removed Pin From Net: NetName=NetCon1_2 Pin=K1-3
+Removed Pin From Net: NetName=NetK1_4 Pin=K1-4
+Removed Member From Class: ClassName=PowerRegulationBoardV2 Member=K1
+Removed Member From Class: ClassName=PowerNets Member=+12
+Change component parameters: Designator = "F2"; Footprint = "Keystone_3557-2_0"; UniqueID = "\YJBKGENU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "3557-2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "Vishay_WSL2010_0"; UniqueID = "\RSGRYOHD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW120610R0JNEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "1/4W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SCDType"; Value = "undef"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10ECT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "Vishay_WSL2010_0"; UniqueID = "\BKMBBHFT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW120610R0JNEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "1/4W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SCDType"; Value = "undef"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10ECT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "91k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "Vishay_WSL2010_0"; UniqueID = "\GBSTFTBA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW120610R0JNEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "1/4W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SCDType"; Value = "undef"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10ECT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "Vishay_WSL2010_0"; UniqueID = "\RDJFKVUQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW120610R0JNEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "1/4W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SCDType"; Value = "undef"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10ECT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "91k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "TrimPot_THT_2.54mm pitch"; UniqueID = "\RBMMYSYX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PV36Y102C01B00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "25 turn variable cermet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-2912-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=D?(Nexperia_SOD128_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "PMEG3050EP,115"; VariantName = "[No Variations]"
+Added Component: Designator=D?(Nexperia_SOD128_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "PMEG3050EP,115"; VariantName = "[No Variations]"
+Added Component: Designator=K?(CPC1117N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+12 Pin=D?-2
+Added Pin To Net: NetName=Net+12vA_1 Pin=D?-2
+Added Pin To Net: NetName=NetK1_1 Pin=K?-1
+Added Pin To Net: NetName=NetH1_1 Pin=K?-2
+Added Pin To Net: NetName=NetK1_4 Pin=K?-3
+Added Pin To Net: NetName=NetCon1_2 Pin=K?-4
+Change Net Name : Old Net Name=+12 New Net Name=Net+12vM_1
+Change Net Name : Old Net Name=NetK1_1 New Net Name=NetK?_1
+Change Net Name : Old Net Name=NetK1_4 New Net Name=NetK?_3
+Added Pin To Net: NetName=+12 Pin=D?-1
+Added Pin To Net: NetName=+12 Pin=D?-1
+Added Pin To Net: NetName=+12 Pin=J1-2
+Added Net: Name=+12
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component D? PMEG3050EP,115
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component D? PMEG3050EP,115
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component K? CPC1117N
+Added Member To Class: ClassName=PowerNets Member=Wire Net+12vM_1

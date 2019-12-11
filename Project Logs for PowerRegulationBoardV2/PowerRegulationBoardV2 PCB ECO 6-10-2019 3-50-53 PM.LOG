@@ -1,0 +1,14 @@
+Added Component: Designator=F3(Keystone_3557-2_0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F4(Keystone_3557-2_0)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetF3_1 Pin=F3-1
+Added Pin To Net: NetName=+12 Pin=F3-2
+Added Pin To Net: NetName=NetF3_1 Pin=F3-3
+Added Pin To Net: NetName=+12 Pin=F3-4
+Added Pin To Net: NetName=13.8V_Aux Pin=F4-1
+Added Pin To Net: NetName=NetCon2_1 Pin=F4-2
+Added Pin To Net: NetName=13.8V_Aux Pin=F4-3
+Added Pin To Net: NetName=NetCon2_1 Pin=F4-4
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component F3 3557-2
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component F4 3557-2

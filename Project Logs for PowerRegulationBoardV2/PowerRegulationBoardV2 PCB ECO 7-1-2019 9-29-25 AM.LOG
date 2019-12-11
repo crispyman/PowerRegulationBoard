@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=GND-1
+Removed Pin From Net: NetName=NetCon3_1 Pin=J?-1
+Removed Pin From Net: NetName=NetCon1_1 Pin=J?-2
+Removed Member From Class: ClassName=PowerRegulationBoardV2 Member=GND
+Removed Member From Class: ClassName=PowerRegulationBoardV2 Member=J?
+Added Component: Designator=H?(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Vishay_CRCW0402_IPC_A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetH?_1 Pin=H?-1
+Added Pin To Net: NetName=NetH?_1 Pin=K?-2
+Added Net: Name=NetH?_1
+Added Pin To Net: NetName=NetH?_2 Pin=H?-2
+Added Pin To Net: NetName=NetH?_2 Pin=R?-1
+Added Net: Name=NetH?_2
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=R?-2
+Added Net: Name=NetK?_1
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component H? Header 0
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component R? CRCW0402332RFKED

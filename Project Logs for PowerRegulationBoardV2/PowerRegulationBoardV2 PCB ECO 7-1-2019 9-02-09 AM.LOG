@@ -1,0 +1,5 @@
+Added Component: Designator=K?(CPC1117N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetCon1_2 Pin=K?-3
+Added Pin To Net: NetName=NetK?_4 Pin=K?-4
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component K? CPC1008N

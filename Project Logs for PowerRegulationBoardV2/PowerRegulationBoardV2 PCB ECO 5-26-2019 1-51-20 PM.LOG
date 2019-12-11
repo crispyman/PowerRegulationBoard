@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=D1 Old Footprint=ONSC-SOD-123-2-425-04_V New Footprint=ONSC-SOD-123-2-425-04_V
+Added Component: Designator=P1(SCREW-5.0-2WAYS_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "5mm screw terminal in SVN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "5000 MOhm / 1000 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "No Vendor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Socket, Screw Terminal Block, 2 Way, Pitch 5 mm, 90 Degree Angle, Through-Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SCREW-5.0/5.08 2WAYS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Poles"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "25 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "300 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-40 to 105 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=+12 Pin=P1-2
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component P1 SCREW-5.0/5.08 2WAYS

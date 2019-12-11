@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Net+12vA_1 Pin=Con2-1
+Removed Pin From Net: NetName=GND Pin=Con2-2
+Added Pin To Net: NetName=GND Pin=Con2-1
+Added Pin To Net: NetName=Net+12vA_1 Pin=Con2-2
+Added Member To Class: ClassName=PowerNets Member=Wire NetCon1_2

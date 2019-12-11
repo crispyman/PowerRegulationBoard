@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=PowerNets Member=+12
+Added Component: Designator=GND1(TestPoint)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=GND1-1
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component GND1 Testpoint

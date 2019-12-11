@@ -1,0 +1,11 @@
+Added Component: Designator=R4(KOA_Speer_RK73H2B_IPC_A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetH1_2 Pin=R4-1
+Added Pin To Net: NetName=NetK1_1 Pin=R4-2
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component F2 3557-2
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component H1 Header 0
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component H2 Header 0
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component K1 CPC1008N
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component R4 RK73H2BTTD3320F
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component R5 Thick Film
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component R6 Thick Film

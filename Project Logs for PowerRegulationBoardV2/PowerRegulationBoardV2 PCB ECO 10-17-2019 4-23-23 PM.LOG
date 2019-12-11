@@ -1,0 +1,4 @@
+Added Component: Designator=+12v(TestPoint)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+12 Pin=+12v-1
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component +12v Testpoint

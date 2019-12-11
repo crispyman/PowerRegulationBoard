@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetH3_1 Pin=K2-2
+Removed Member From Class: ClassName=PowerNets Member=Net+1_1
+Change Component Designator: OldDesignator=+1 NewDesignator=+24
+Added Pin To Net: NetName=NetCon3_1 Pin=H3-2
+Added Pin To Net: NetName=NetCon3_2 Pin=K2-2
+Added Pin To Net: NetName=NetH3_1 Pin=R?-1
+Change Net Name : Old Net Name=Net+1_1 New Net Name=Net+24_1
+Added Member To Class: ClassName=PowerNets Member=Wire Net+24_1

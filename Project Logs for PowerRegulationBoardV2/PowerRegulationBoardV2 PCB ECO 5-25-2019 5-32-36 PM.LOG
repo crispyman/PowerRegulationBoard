@@ -1,0 +1,5 @@
+Added Component: Designator=R7(Vishay_CRCW2010_IPC_B)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetBT1_2 Pin=R7-1
+Added Pin To Net: NetName=NetK1_1 Pin=R7-2
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component R7 CRCW201020R0FKEF

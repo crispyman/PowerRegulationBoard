@@ -1,0 +1,199 @@
+Added Component: Designator=BT1(Keystone_1020_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/aeadfed39ba6ac98/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.keyelco.com/product-pdf.cfm?p=934"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "BATT HOLDER BATTERY AAA SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "36-1020-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/aeadfed39ba6ac98/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "534-1020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "BT_HLDR_SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.62889830371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-1020-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "534-1020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-50°C to +145°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+145°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-50°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "SKIP"; VariantName = "[No Variations]"
+Added Component: Designator=Con1(Battery Con)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Con2(Battery Con)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Con3(Battery Con)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F1(PC TRON 5A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F2(10A/32V Fuse)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H1(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=H2(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J1(1542761)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70170366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/phoenixcontact-1542761/70170366/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://media.digikey.com/PDF/Data%20Sheets/Phoenix%20Contact%20PDFs/1542761.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "18mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1542761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1542761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=651-1542761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "8025583"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/8025583"; VariantName = "[No Variations]"
+Added Component: Designator=K1(CPC1117N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(Vishay_WSL2010_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW120610R0JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "undef"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10ECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "21.905k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Vishay_WSL2010_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW120610R0JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "undef"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10ECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "90k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Vishay_WSL2010_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW120610R0JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "undef"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10ECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "21.905k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Vishay_WSL2010_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/doc?20035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW120610R0JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "undef"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10ECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "90k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Vishay_CRCW2010_IPC_B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=t1(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=t2(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=t3(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=t4(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(Vicor DC-DC Maxi)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(Vicor DC-DC Maxi)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+12 Pin=J1-2
+Added Pin To Net: NetName=+12 Pin=R1-2
+Added Pin To Net: NetName=+12 Pin=t1-1
+Added Pin To Net: NetName=+12 Pin=t2-1
+Added Pin To Net: NetName=+12 Pin=U1-5
+Added Pin To Net: NetName=+12 Pin=U1-6
+Added Net: Name=+12
+Added Pin To Net: NetName=13.8V_Aux Pin=Con2-1
+Added Pin To Net: NetName=13.8V_Aux Pin=R4-2
+Added Pin To Net: NetName=13.8V_Aux Pin=t3-1
+Added Pin To Net: NetName=13.8V_Aux Pin=U2-5
+Added Pin To Net: NetName=13.8V_Aux Pin=U2-6
+Added Net: Name=13.8V_Aux
+Added Pin To Net: NetName=GND Pin=Con2-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=H1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=H2-2
+Added Net: Name=NetBT1_1
+Added Pin To Net: NetName=NetBT1_2 Pin=BT1-2
+Added Pin To Net: NetName=NetBT1_2 Pin=H1-2
+Added Pin To Net: NetName=NetBT1_2 Pin=R7-1
+Added Net: Name=NetBT1_2
+Added Pin To Net: NetName=NetCon1_1 Pin=Con1-1
+Added Pin To Net: NetName=NetCon1_1 Pin=F1-1
+Added Net: Name=NetCon1_1
+Added Pin To Net: NetName=NetCon1_2 Pin=Con1-2
+Added Pin To Net: NetName=NetCon1_2 Pin=U1-4
+Added Net: Name=NetCon1_2
+Added Pin To Net: NetName=NetCon3_1 Pin=Con3-1
+Added Pin To Net: NetName=NetCon3_1 Pin=F2-1
+Added Net: Name=NetCon3_1
+Added Pin To Net: NetName=NetCon3_2 Pin=Con3-2
+Added Pin To Net: NetName=NetCon3_2 Pin=K1-4
+Added Pin To Net: NetName=NetCon3_2 Pin=U2-4
+Added Net: Name=NetCon3_2
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=U1-1
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetF2_2 Pin=U2-1
+Added Net: Name=NetF2_2
+Added Pin To Net: NetName=NetH2_1 Pin=H2-1
+Added Pin To Net: NetName=NetH2_1 Pin=K1-2
+Added Net: Name=NetH2_1
+Added Pin To Net: NetName=NetK1_1 Pin=K1-1
+Added Pin To Net: NetName=NetK1_1 Pin=R7-2
+Added Net: Name=NetK1_1
+Added Pin To Net: NetName=NetK1_3 Pin=K1-3
+Added Pin To Net: NetName=NetK1_3 Pin=t4-1
+Added Pin To Net: NetName=NetK1_3 Pin=U2-2
+Added Net: Name=NetK1_3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-7
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U2-7
+Added Net: Name=NetR5_2
+Added Class: Name=PowerRegulationBoardV2
+Added Class: Name=PowerNets
+Added Room: Name=PowerRegulationBoardV2

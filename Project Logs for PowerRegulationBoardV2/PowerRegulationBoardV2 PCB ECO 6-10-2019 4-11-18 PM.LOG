@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=PowerNets Member=NetCon2_1
+Removed Member From Class: ClassName=PowerNets Member=NetF2_2
+Change Component Designator: OldDesignator=t1 NewDesignator=12V_MAIN
+Change Component Designator: OldDesignator=t2 NewDesignator=12V_AUX
+Change Component Designator: OldDesignator=t4 NewDesignator=Start_Switch
+Added Component: Designator=+110V(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=GND(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Pack_GND(TestPoint)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=NetCon3_2 Pin=Pack_GND-1
+Change Net Name : Old Net Name=NetCon2_1 New Net Name=Net12V_AUX_1
+Added Pin To Net: NetName=Net+110V_1 Pin=+110V-1
+Added Pin To Net: NetName=Net+110V_1 Pin=F2-2
+Added Pin To Net: NetName=Net+110V_1 Pin=U2-1
+Added Net: Name=Net+110V_1
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component +110V Testpoint
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component GND Testpoint
+Added Member To Class: ClassName=PowerRegulationBoardV2 Member=Component Pack_GND Testpoint
+Added Member To Class: ClassName=PowerNets Member=Wire Net12V_AUX_1
+Added Member To Class: ClassName=PowerNets Member=Wire Net+110V_1
