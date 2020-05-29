@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -30,7 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=C43DA54E-E08A-4571-9001-66C40D86A751
+VaultGUID=9ACB8DB6-10C9-43DF-9220-227012C08C37
+ReleaseVaultName=AppState Solar Vehicle Team
+ItemGUID=C43DA54E-E08A-4571-9001-66C40D86A751
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -38,516 +41,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\AltiumLL\Diode_Nexperia_PMEG3050EP,115\parts/Diode_Nexperia_PMEG3050EP,115_eec_0.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FVGPRTLE
-
-[Document2]
-DocumentPath=..\..\AltiumLL\Diode_Nexperia_PMEG3050EP,115\parts/Diode_Nexperia_PMEG3050EP,115_eec.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MBRIESHR
-
-[Document3]
-DocumentPath=..\..\AltiumLL\Res_Vishay_CRCW12065K60FKEA\parts/Res_Vishay_CRCW12065K60FKEA_eec_IPC_C.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DYWWYSRP
-
-[Document4]
-DocumentPath=..\..\AltiumLL\Res_Vishay_CRCW12065K60FKEA\parts/Res_Vishay_CRCW12065K60FKEA_eec_IPC_B.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XXPYQBEO
-
-[Document5]
-DocumentPath=..\..\AltiumLL\Res_Vishay_CRCW12065K60FKEA\parts/Res_Vishay_CRCW12065K60FKEA_eec_IPC_A.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MLUYWKIY
-
-[Document6]
-DocumentPath=..\..\AltiumLL\Res_Vishay_CRCW12065K60FKEA\parts/Res_Vishay_CRCW12065K60FKEA_eec_MFG.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KBICBTWI
-
-[Document7]
-DocumentPath=..\..\AltiumLL\Res_Vishay_CRCW12065K60FKEA\parts/Res_Vishay_CRCW12065K60FKEA_eec.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DYVSVIVB
-
-[Document8]
-DocumentPath=..\..\AltiumLL\Res_KOA Speer_RK73H2BTTD3320F\parts/Res_KOA_Speer_RK73H2BTTD3320F_eec.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BRYVRXXJ
-
-[Document9]
-DocumentPath=..\..\AltiumLL\Res_Vishay_CRCW0402332RFKED\parts/Res_Vishay_CRCW0402332RFKED_eec_IPC_C.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=REVPDGOK
-
-[Document10]
-DocumentPath=..\..\AltiumLL\Res_Vishay_CRCW0402332RFKED\parts/Res_Vishay_CRCW0402332RFKED_eec_MFG.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XQTJFKEV
-
-[Document11]
-DocumentPath=..\..\AltiumLL\Res_Vishay_CRCW0402332RFKED\parts/Res_Vishay_CRCW0402332RFKED_eec_IPC_B.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NQHOJCCQ
-
-[Document12]
-DocumentPath=..\..\AltiumLL\Res_Vishay_CRCW0402332RFKED\parts/Res_Vishay_CRCW0402332RFKED_eec_IPC_A.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PHFSIVNE
-
-[Document13]
-DocumentPath=..\..\AltiumLL\Res_Vishay_CRCW0402332RFKED\parts/Res_Vishay_CRCW0402332RFKED_eec.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TLNWSYRR
-
-[Document14]
-DocumentPath=..\..\AltiumLL\Relay_IXYS_CPC1008N\parts/Relay_IXYS_CPC1008N_eec_IPC_A.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CFOFODMH
-
-[Document15]
-DocumentPath=..\..\AltiumLL\Relay_IXYS_CPC1008N\parts/Relay_IXYS_CPC1008N_eec_IPC_B.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WSJGFHEK
-
-[Document16]
-DocumentPath=..\..\AltiumLL\Relay_IXYS_CPC1008N\parts/Relay_IXYS_CPC1008N_eec_IPC_C.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WGJMTJQX
-
-[Document17]
-DocumentPath=..\..\AltiumLL\Relay_IXYS_CPC1008N\parts/Relay_IXYS_CPC1008N_eec_MFG.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SLXICEEX
-
-[Document18]
-DocumentPath=..\..\AltiumLL\Relay_IXYS_CPC1008N\parts/Relay_IXYS_CPC1008N_eec.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HECEGNEM
-
-[Document19]
-DocumentPath=..\..\..\Downloads\Diode_On Semiconductor_MMSZ4679T1G\parts\On_Semiconductor_MMSZ4679T1G_0.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HHFHPGOQ
-
-[Document20]
-DocumentPath=..\..\..\Downloads\Diode_On Semiconductor_MMSZ4679T1G\parts\On_Semiconductor_MMSZ4679T1G.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JTEBBYDV
-
-[Document21]
-DocumentPath=..\..\..\Downloads\Res_Vishay_CRCW201020R0FKEF\parts/Res_Vishay_CRCW201020R0FKEF_eec_IPC_B.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HPTPXQVI
-
-[Document22]
-DocumentPath=..\..\..\Downloads\Relay_Toshiba_TLP172A(F)\parts\CPC1117N.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DKYEFWFF
-
-[Document23]
-DocumentPath=..\..\..\Downloads\Relay_Toshiba_TLP172A(F)\parts\CPC1117N.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ESBOHGXT
-
-[Document24]
-DocumentPath=..\..\..\Downloads\Batt_Keystone_1020\parts\Batt_Keystone_1020_eec.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UAMLSUBM
-
-[Document25]
-DocumentPath=..\..\..\Downloads\Batt_Keystone_1020\parts\Batt_Keystone_1020_eec_0.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VOVEVIJN
-
-[Document26]
-DocumentPath=..\..\..\Downloads\ROSE_FINAL\NewCar_project\Components_library.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AETGQUBW
-
-[Document27]
-DocumentPath=..\..\..\..\Public\Documents\Altium\AD19\Library\Diode_On Semiconductor_MBRB2515LG\parts\On_Semiconductor_MBRB2515LG_0.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RHQBUXOC
-
-[Document28]
-DocumentPath=..\..\..\Downloads\ROSE_FINAL\NewCar_project\PCB_library.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BAWLKVIW
-
-[Document29]
-DocumentPath=..\..\..\..\Public\Documents\Altium\AD19\Library\Res_Vishay_WSL2010R2000FEA\parts\Res_Vishay_WSL2010R2000FEA_eec_0.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YWBQLUGV
-
-[Document30]
-DocumentPath=..\..\AltiumLL\SamacSys.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NGLTGAHM
-
-[Document31]
 DocumentPath=PowerRegulationBoardV2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,24 +57,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FRCWDJHZ
 
-[Document32]
-DocumentPath=..\..\..\..\Public\Documents\Altium\AD19\Library\Diode_On Semiconductor_MBRB2515LG\parts\On_Semiconductor_MBRB2515LG.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IINUNGHW
-
-[Document33]
+[Document2]
 DocumentPath=PowerRegulationBoardV2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BGANEBCB
 
-[Document34]
+[Document3]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document4]
 DocumentPath=PowerRegulationBoardV2.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document5]
 DocumentPath=Gerber.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document6]
 DocumentPath=drill.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -671,202 +147,174 @@ DocumentPath=Project Outputs for PowerRegulationBoardV2\Design Rule Check - Powe
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PowerRegulationBoardV2-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\NC Drill\PowerRegulationBoardV2-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PowerRegulationBoardV2-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\NC Drill\PowerRegulationBoardV2-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PowerRegulationBoardV2.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument9]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\NC Drill\PowerRegulationBoardV2.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\Gerber\PowerRegulationBoardV2.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\Gerber\PowerRegulationBoardV2.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.GM10
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.GM12
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PowerRegulationBoardV2.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument30]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\NC Drill\PowerRegulationBoardV2.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Free Documents\Gerber\PowerRegulationBoardV2.REP
-DItemRevisionGUID=
-
-[GeneratedDocument33]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\Gerber\PowerRegulationBoardV2.REP
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.REP
 DItemRevisionGUID=
 
-[GeneratedDocument35]
-DocumentPath=Project Outputs for Free Documents\Gerber\PowerRegulationBoardV2.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument36]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\Gerber\PowerRegulationBoardV2.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2_Mechanical_10.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2_Mechanical_12.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument37]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2_Mechanical_13.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument38]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2_Mechanical_15.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2_Pads_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2_Pads_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument41]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument43]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument44]
 DocumentPath=Project Outputs for PowerRegulationBoardV2\PowerRegulationBoardV2_Soldermask_Top.gbr
 DItemRevisionGUID=
 
@@ -1144,42 +592,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=XSpice Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMetrixNetlist
-OutputName22=SIMetrix
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=SIMPLISNetlist
-OutputName23=SIMPLIS
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1246,6 +664,12 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1822,6 +1246,8 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
+Type118=1
+Type119=1
 
 [Difference Levels]
 Type1=1
@@ -1890,6 +1316,8 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
+Type67=1
+Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1898,33 +1326,33 @@ Type3=2
 Type4=1
 Type5=2
 Type6=2
-Type7=1
+Type7=0
 Type8=1
 Type9=1
 Type10=1
 Type11=2
-Type12=2
-Type13=2
+Type12=0
+Type13=0
 Type14=1
 Type15=1
 Type16=1
 Type17=1
 Type18=1
 Type19=1
-Type20=1
-Type21=1
-Type22=1
-Type23=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
 Type24=1
 Type25=2
-Type26=2
+Type26=0
 Type27=2
 Type28=1
 Type29=1
 Type30=1
 Type31=1
 Type32=2
-Type33=2
+Type33=0
 Type34=2
 Type35=1
 Type36=2
@@ -1935,15 +1363,15 @@ Type40=2
 Type41=0
 Type42=2
 Type43=1
-Type44=1
-Type45=2
-Type46=1
-Type47=2
-Type48=2
-Type49=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
 Type50=2
-Type51=1
-Type52=1
+Type51=0
+Type52=0
 Type53=1
 Type54=1
 Type55=1
@@ -1951,10 +1379,10 @@ Type56=2
 Type57=1
 Type58=1
 Type59=2
-Type60=1
-Type61=2
-Type62=2
-Type63=1
+Type60=0
+Type61=0
+Type62=0
+Type63=0
 Type64=0
 Type65=2
 Type66=3
@@ -1992,7 +1420,7 @@ Type97=2
 Type98=0
 Type99=1
 Type100=2
-Type101=1
+Type101=0
 Type102=2
 Type103=2
 Type104=1
@@ -2037,6 +1465,7 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
+ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -2057,6 +1486,7 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=1
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Any
 ComponentLibraryIdentifier0=
@@ -2292,6 +1722,7 @@ ModelUpdate16=1
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
